@@ -6,7 +6,7 @@
   <br/>
 
   <p align="center">
-    Webi3 Omega
+    Webi3 Cipheron
     <br/>
     🎧🎹🤘
   </p>
